@@ -3,4 +3,4 @@ theme: material
 docs_dir: ./docs
 
 nav:
-  - Contents: 'Contents.md'
+- Allegro REST API Design Guidelines: 'README.md'
