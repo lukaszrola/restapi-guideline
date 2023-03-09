@@ -4,3 +4,4 @@ docs_dir: ./docs
 
 nav:
 - Allegro REST API Design Guidelines: 'README.md'
+- Contents: 'Contents.md'
