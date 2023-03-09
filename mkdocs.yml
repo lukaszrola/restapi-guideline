@@ -9,5 +9,6 @@ nav:
 - Representation: 'Representation.md'
 - Error: 'Error.md'
 - Command pattern: 'Command pattern.md'
+- Documentation: 'Documentation.md'
 - Glossary: 'Glossary.md'
 - HATEOAS: 'HATEOAS.md'
