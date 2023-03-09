@@ -1,4 +1,4 @@
-[![Documentation Status](http://readthedocs.org/projects/allegro-restapi-guideline/badge/?version=latest)](https://read-the-doc-4.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/read-the-doc-4/badge/?version=latest)](https://read-the-doc-4.readthedocs.io/en/latest/?badge=latest)
 
 # Allegro REST API Design Guidelines
 
