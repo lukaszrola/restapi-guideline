@@ -18,7 +18,7 @@ who wants to interact with the API provided by Allegro Public REST API or micro-
 * hear your feedback.
 
 
-## Allegro REST API
+## Introduction
 
 Allegro REST API is a new API interface that will integrate the Allegro platform with:
 
