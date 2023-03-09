@@ -1,5 +1,5 @@
 site_name: Allegro REST API Design Guidelines
-theme: readthedocs
+theme: material
 docs_dir: ./docs
 
 nav:
