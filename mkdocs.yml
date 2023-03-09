@@ -1,6 +1,5 @@
 site_name: Allegro REST API Design Guidelines
 theme: readthedocs
-docs_dir: ./docs
 
 nav:
 - Allegro REST API Design Guidelines: 'README.md'
