@@ -1,5 +1,3 @@
-[![Documentation Status](http://readthedocs.org/projects/allegro-restapi-guideline/badge/?version=latest)](http://allegro-restapi-guideline.readthedocs.io/en/latest/?badge=latest)
-
 # Allegro REST API Design Guidelines
 
 The purpose of this document is to keep Allegro Public REST API implementations as consistent as possible. The document is addressed to developers who:
@@ -95,7 +93,7 @@ and user-friendly developer experience (DX) if it is to facilitate the creation 
 that add value to the API owner’s business.
 
 
-# Contents
+## Contents
 
 * [Resource](#resource)
 	* [Name](#name)
