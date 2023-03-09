@@ -1,6 +1,6 @@
 # Contents
 
-* [Resource](#resource)
+* [Resource](Resource.md)
 	* [Name](#name)
 	* [Identification (UU)IDs](#identification-uuids)
 	* [Lowercase paths](#lowercase-paths)
