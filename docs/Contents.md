@@ -1,7 +1,7 @@
 # Contents
 
 * [Resource](Resource.md)
-	* [Name](Resource.md#name)
+	* [Name](Resource/#name)
 	* [Identification (UU)IDs](#identification-uuids)
 	* [Lowercase paths](#lowercase-paths)
 	* [Minimize resources nesting](#minimize-resources-nesting)
