@@ -3,13 +3,4 @@ theme: readthedocs
 docs_dir: ./docs
 
 nav:
-- index: 'index.md'
-- Design Guidelines: 'DesignGuidelines.md'
-- Section:
-    - 'Resource': 'Resource.md'
-    - 'Representation': 'Representation.md'
-    - 'Error': 'Error.md'
-- Command pattern: 'CommandPattern.md'
-- Documentation: 'Documentation.md'
-- Glossary: 'Glossary.md'
-- HATEOAS: 'Hateoas.md'
+- Rest API Guidelines: 'README.md'
