@@ -8,3 +8,6 @@ nav:
 - Resource: 'Resource.md'
 - Representation: 'Representation.md'
 - Error: 'Error.md'
+- Command pattern: 'Command pattern.md'
+- Glossary: 'Glossary.md'
+- HATEOAS: 'HATEOAS.md'
