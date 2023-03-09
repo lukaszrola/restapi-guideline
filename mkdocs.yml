@@ -2,7 +2,7 @@ site_name: Allegro REST API Design Guidelines
 theme: readthedocs
 docs_dir: ./
 
-pages:
+nav:
 - index: 'index.md'
 - All in one: 'README.md'
 - Design Guidelines: 'DesignGuidelines.md'
