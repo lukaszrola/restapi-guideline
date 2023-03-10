@@ -21,7 +21,8 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
-          message: 'Regenerate documents'
+          message: Regenerate mkdocs content
+          branch: master
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
 
