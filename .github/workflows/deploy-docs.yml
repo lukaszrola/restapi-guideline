@@ -24,6 +24,7 @@ jobs:
           message: Regenerate mkdocs content
           branch: master
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
 
 
   deploy:
