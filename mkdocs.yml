@@ -3,8 +3,7 @@ theme: material
 docs_dir: ./docs
 
 nav:
-- Introduction: 'Allegro REST API Design Guidelines.md'
-- Contents: 'Contents.md'
+- Introduction: 'index.md'
 - Resource: 'Resource.md'
 - Representation: 'Representation.md'
 - Error: 'Error.md'
