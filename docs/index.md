@@ -1,6 +1,6 @@
 # Allegro REST API Design Guidelines
 
-The purpose of this document is to keep Allegro Public REST API implementations as consistent as possible. The document is addressed to developers whoo:
+The purpose of this document is to keep Allegro Public REST API implementations as consistent as possible. The document is addressed to developers whooo:
 
 * design REST APIs for micro-services
 * create applications that consume these APIs.
