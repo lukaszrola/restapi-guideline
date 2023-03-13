@@ -1,4 +1,4 @@
-# Allegro REST API Design Guidelines
+# Allegro REST API Design Guideliness
 
 The purpose of this document is to keep Allegro Public REST API implementations as consistent as possible. The document is addressed to developers who:
 

@@ -26,7 +26,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
 
-
   deploy:
     runs-on: ubuntu-latest
     needs: split-files
