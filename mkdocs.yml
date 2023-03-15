@@ -1,8 +1,12 @@
 site_name: Allegro REST API Design Guidelines
 theme:
   name: material
-  extra_css:
-    - style.css
+  palette:
+    - scheme: default
+      primary: 'deep orange'
+      accent: 'indigo'
+extra_css:
+  - style.css
 
 docs_dir: ./docs
 
