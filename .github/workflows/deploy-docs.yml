@@ -18,6 +18,7 @@ jobs:
       - run: rm -r docs
       - run: mdsplit README.md -o docs
       - run: mv 'docs/Allegro REST API Design Guidelines.md' 'docs/index.md'
+      - run: mv mkdocs-style.css docs/style.css
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
